@@ -1,0 +1,17 @@
+{
+  "title": "Tatters For Rayuba",
+  "description": "In the depths of planetary war, ",
+  "artist": "Crowrags",
+  "author": "Crowrags",
+  "cover": "",
+  "chapters": {
+    "0": {
+      "title": "War hit's Home",
+      "volume": "1",
+      "groups": {
+        "Pyre": "/proxy/api/imgur/chapter/7dSUOS5/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
